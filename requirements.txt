@@ -1,1 +1,7 @@
  openai
+ voicevox-client
+ pyaudio
+ textwrap3
+ simpleaudio
+ asyncio
+ translate
